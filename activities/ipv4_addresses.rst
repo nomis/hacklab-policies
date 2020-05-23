@@ -21,8 +21,8 @@ provided some members let their current membership period expire.
 Additional addresses
 ~~~~~~~~~~~~~~~~~~~~
 
-Members may receive an additional assignment of 1 IPv4 address for a recurring fee
-of £Z (£Y / 24) per month.
+Members may receive an additional assignment of IPv4 addresses for a recurring fee
+of £Z (£Y / 24) per address per month.
 
 
 Exhaustion of available addresses
