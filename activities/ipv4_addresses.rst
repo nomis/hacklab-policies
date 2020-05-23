@@ -5,8 +5,16 @@ The Hacklab has an assignment of IPv4 addresses. These are a limited resource
 and were expensive to obtain. The original cost for a block of 256 IP addresses
 was £X.
 
+Terminology used in this document
+---------------------------------
+Allocation
+    An entitlement to have an IP address assigned.
 
-Assignment to members
+Assignment
+    A specific documented IP address routed to a server.
+
+
+Allocation to members
 ---------------------
 
 Members may receive an allocation of 1 IPv4 address for a non-refundable one-off fee
@@ -21,8 +29,8 @@ provided some members let their current membership period expire.
 Members may opt not to use their allocation, freeing up the assignment of an address
 without needing to suspend their membership.
 
-Additional addresses
-~~~~~~~~~~~~~~~~~~~~
+Assignment of additional addresses
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Members may receive an additional assignment of IPv4 addresses for a recurring fee
 of £Z (£Y / 24) per address per month, as long as there are available addresses to
