@@ -41,7 +41,7 @@ Allocation transfer
 
 Members may transfer their allocation of 1 IPv4 address to another member who
 does not have an allocation. Allocations may not be transferred unless the
-exhaustion condition above is met. Allocations may not be transferred if the
+exhaustion condition above is met. Allocations may not be transferred unless the
 member's allocation is currently fulfilled with an assignment (it must result
 in the assignment being moved).
 
