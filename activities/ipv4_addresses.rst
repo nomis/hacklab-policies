@@ -66,7 +66,22 @@ Hacklab's own purposes. The intention is that the Hacklab will always attempt
 to recover the cost of the resource from the members that want to use it.
 
 Whether or not the Hacklab requires addresses for it own purposes is a
-decision for the membership. It is assumed that the Hacklab will always
-require a minimum of 2 addresses for internal use and an additional 2
-addresses will be reserved for technical reasons (the start and end of the
-block of addresses).
+decision for the members. It is assumed that the Hacklab will always require
+a minimum of 2 addresses for internal use and an additional 2 addresses will
+be reserved for technical reasons (the start and end of the block of addresses).
+
+
+Sale of IPv4 address block
+--------------------------
+
+The Hacklab should aim to sell the IPv4 address block at market rates when
+IPv4 becomes irrelevant or is about to become irrelevant, as long as the
+membership decides that the sale will be of more benefit to the lab than the
+addresses are.
+
+Members will not be entitled to a refund of fees for their allocations.
+
+The intention is to recover the cost of the original resource when it is no
+longer required before its value drops, not to make a profit. The majority
+of active members with assigned allocations must approve the sale because
+it would be unfair to sell it while it's still actively in use.
