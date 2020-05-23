@@ -18,6 +18,9 @@ with an assignment of an IPv4 address while their membership is active.
 It is intentional that this may result in the over-comitting of available addresses,
 provided some members let their current membership period expire.
 
+Members may opt not to use their allocation, freeing up the assignment of an address
+without needing to suspend their membership.
+
 Additional addresses
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -28,10 +31,10 @@ of £Z (£Y / 24) per address per month.
 Exhaustion of available addresses
 ---------------------------------
 
-If there are no available addresses for assignment and an assignment is required,
-then the members with the most additional addresses (or volunteers with additonal
-addresses) will be given N months notice to return additional addresses to meet
-the assignment need.
+If there are no available addresses and the assignment of an allocation is
+required, then the members with the most additional addresses (or volunteers with
+additonal addresses) will be given N months notice to return additional addresses
+to meet the assignment need.
 
 If there are no additional addresses that could be returned then it is possible
 to perform a transfer of an allocation between members.
