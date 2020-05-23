@@ -11,3 +11,4 @@ Activities
    power_tools
    batteries
    hot_work
+   ipv4_addresses
